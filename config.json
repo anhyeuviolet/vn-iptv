@@ -1,0 +1,46 @@
+{
+  "sources": [
+    "https://iptv-org.github.io/iptv/countries/vn.m3u",
+    "https://iptv-org.github.io/iptv/languages/vie.m3u"
+  ],
+  "include_tvg_id_regex": "\\.vn(@|$)|@Vietnam$",
+  "exclude_tvg_ids": [],
+  "exclude_name_regex": "",
+  "group_rules": [
+    ["VTV", "^VTV\\d"],
+    ["HTV", "^HTV"],
+    ["SCTV", "^SCTV"],
+    ["VTVcab ON", "^ON "],
+    ["Quốc gia", "^(An Ninh|ANTV|QPVN|Vietnam Today|Nhan Dan|Quoc Hoi|VTC|VOV|VNews)"],
+    ["Địa phương", "^([A-Z][a-z]+ ?){1,3}TV ?\\d*$"]
+  ],
+  "category_names": {
+    "General": "Tổng hợp",
+    "News": "Tin tức",
+    "Sports": "Thể thao",
+    "Movies": "Phim",
+    "Series": "Phim bộ",
+    "Kids": "Thiếu nhi",
+    "Family": "Gia đình",
+    "Music": "Âm nhạc",
+    "Entertainment": "Giải trí",
+    "Education": "Giáo dục",
+    "Science": "Khoa học",
+    "Documentary": "Tài liệu",
+    "Culture": "Văn hoá",
+    "Lifestyle": "Đời sống",
+    "Cooking": "Ẩm thực",
+    "Travel": "Du lịch",
+    "Outdoor": "Ngoài trời",
+    "Business": "Kinh tế",
+    "Shop": "Mua sắm",
+    "Religious": "Tôn giáo",
+    "Undefined": "Khác"
+  },
+  "check": {
+    "enabled": true,
+    "timeout_seconds": 12,
+    "workers": 16,
+    "keep_geo_blocked": true
+  }
+}
