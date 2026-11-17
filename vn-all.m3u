@@ -97,7 +97,7 @@ https://vmttv.dpdns.org/tv360?id=175
 https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1 tvg-id="ONTrendingTV.vn@SD" tvg-name="ON Trending TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab17%20-%20ON%20Trending%20TV.png" group-title="VTVcab ON",ON Trending TV
 https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:-1 tvg-id="ONVFamily.vn@SD" tvg-name="ON V Family" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab20%20-%20ON%20VFamily.png" group-title="VTVcab ON",ON V Family
+#EXTINF:-1 tvg-id="ONVFamily.vn@SD" tvg-name="ON VFamily" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab20%20-%20ON%20VFamily.png" group-title="VTVcab ON",ON VFamily
 https://vmttv.dpdns.org/tv360?id=187
 #EXTINF:-1 tvg-id="ONVieDramas.vn@SD" tvg-name="ON Vie Dramas" tvg-logo="https://i.ibb.co/VptvgFVx/IMG-2530.webp" group-title="VTVcab ON",ON Vie Dramas
 https://freem3u.xyz/api/live/play.m3u8?vid=177
