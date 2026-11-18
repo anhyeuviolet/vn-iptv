@@ -38,7 +38,7 @@ https://dethich.pw/htv7/index.m3u8
 #EXTINF:-1 tvg-id="HTV9.vn@SD" tvg-name="HTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp" group-title="HTV",HTV9
 https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-id="HTVSports.vn@SD" tvg-name="HTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" group-title="HTV",HTV Sports
-https://vmttv.dpdns.org/tv360?id=htv-the-thao
+https://dethich.pw/htvthethao/index.m3u8
 #EXTINF:-1 tvg-id="HTVCFamily.vn@SD" tvg-name="HTVC Family" tvg-logo="https://i.ibb.co/BVQtkHgF/IMG-2899.png" group-title="HTV",HTVC Family
 https://dethich.pw/htvcgiadinh/index.m3u8
 #EXTINF:-1 tvg-id="HTVCMovies.vn@SD" tvg-name="HTVC Movies" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png" group-title="HTV",HTVC Movies
