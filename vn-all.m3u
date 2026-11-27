@@ -93,6 +93,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=185
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-id="ONPhimViet.vn@SD" tvg-name="ON Phim Viet" tvg-logo="https://i.ibb.co/Swvp1vwM/IMG-2525.jpg" group-title="VTVcab ON",ON Phim Viet
 https://vmttv.dpdns.org/tv360?id=175
+#EXTINF:-1 tvg-id="ONSports.vn@HD" tvg-name="ON Sports HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/ON%20Sports.png" group-title="VTVcab ON",ON Sports HD
+http://antm.dynu.net:14285/rtp/232.84.1.208:9222
+#EXTINF:-1 tvg-id="ONSportsPlus.vn@SD" tvg-name="ON Sports+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/On%20Sports%2B.png" group-title="VTVcab ON",ON Sports+
+http://antm.dynu.net:14285/rtp/232.84.1.220:9294
 #EXTINF:-1 tvg-id="ONStyleTV.vn@SD" tvg-name="ON Style TV" tvg-logo="https://i.ibb.co/JFw65Mtk/IMG-2529.webp" group-title="VTVcab ON",ON Style TV
 https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1 tvg-id="ONTrendingTV.vn@SD" tvg-name="ON Trending TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab17%20-%20ON%20Trending%20TV.png" group-title="VTVcab ON",ON Trending TV
@@ -167,6 +171,8 @@ https://dethich.pw/thvl3/index.m3u8
 https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV5.vn@SD" tvg-name="Vinh Long TV 5" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%205%20HD.png" group-title="Địa phương",Vinh Long TV 5
 https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@Vietnam" tvg-name="Cartoon Network Asia Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network Asia Vietnam
+http://antm.dynu.net:14285/rtp/232.84.1.16:8070
 #EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-name="Da Vinci Asia Vietnam" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Giáo dục",Da Vinci Asia Vietnam
 https://vmttv.dpdns.org/tv360?id=davinci-hd
 #EXTINF:-1 tvg-id="LaoSVTV.vn@SD" tvg-name="Lao SV TV" tvg-logo="https://i.imgur.com/ZIXtazI.png" group-title="Mua sắm",Lao SV TV
@@ -175,7 +181,21 @@ https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us@Vietnam" tvg-name="Outdoor Channel Vietnam" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Ngoài trời",Outdoor Channel Vietnam
 https://freem3u.xyz/api/live/play.m3u8?vid=216
+#EXTINF:-1 tvg-id="AXNAsia.sg@Vietnam" tvg-name="AXN Asia Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Phim",AXN Asia Vietnam
+http://antm.dynu.net:14285/rtp/232.84.1.14:8058
+#EXTINF:-1 tvg-id="BoxHits.vn@SD" tvg-name="Box Hits" tvg-logo="https://i.imgur.com/kL9ubfw.png" group-title="Phim",Box Hits
+http://antm.dynu.net:14285/rtp/232.84.1.10:8034
+#EXTINF:-1 tvg-id="CinemaWorld.my@Vietnam" tvg-name="CinemaWorld Vietnam" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Phim",CinemaWorld Vietnam
+http://antm.dynu.net:14285/rtp/232.84.1.44:8244
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@Vietnam" tvg-name="Cinemax Asia Vietnam" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="Phim",Cinemax Asia Vietnam
+http://antm.dynu.net:14285/rtp/232.84.1.20:8094
+#EXTINF:-1 tvg-id="HBOAsia.sg@Vietnam" tvg-name="HBO Asia" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="Phim",HBO Asia
+http://antm.dynu.net:14285/rtp/232.84.1.19:8088
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk@Vietnam" tvg-name="CBeebies Asia Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" group-title="Thiếu nhi",CBeebies Asia Vietnam
+http://antm.dynu.net:14285/rtp/232.84.3.200:11122
 #EXTINF:-1 tvg-id="TVBVietnam.vn@SD" tvg-name="TVB Vietnam" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/TVB%20Vietnam.jpeg" group-title="Tổng hợp",TVB Vietnam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicBox.vn@SD" tvg-name="Music Box SD" tvg-logo="https://i.ibb.co/cSHpm7qf/Music-Box.webp" group-title="Âm nhạc",Music Box SD
+http://antm.dynu.net:14285/rtp/232.84.3.144:9588
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg@Vietnam" tvg-name="Asian Food Network Vietnam" tvg-logo="https://i.imgur.com/pux6WN8.png" group-title="Ẩm thực",Asian Food Network Vietnam
 https://freem3u.xyz/api/live/play.m3u8?vid=215
