@@ -119,6 +119,8 @@ https://tv.ctvcamau.vn/live/tv/tv.m3u8
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="CanThoTV2.vn@SD" tvg-name="Can Tho TV 2" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="Địa phương",Can Tho TV 2
 https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanThoTV3.vn@SD" tvg-name="Can Tho TV 3" tvg-logo="https://i.ibb.co/d4G2PD9s/cantho3-2025.png" group-title="Địa phương",Can Tho TV 3
+https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn@SD" tvg-name="Cao Bang TV" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="Địa phương",Cao Bang TV
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DaNangTV1.vn@SD" tvg-name="Da Nang TV 1" tvg-logo="https://i.imgur.com/EOMuO1z.png" group-title="Địa phương",Da Nang TV 1
@@ -155,10 +157,6 @@ https://dethich.pw/thvl3/index.m3u8
 https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV5.vn@SD" tvg-name="Vinh Long TV 5" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%205%20HD.png" group-title="Địa phương",Vinh Long TV 5
 https://freem3u.xyz/api/live/play.m3u8?vid=91
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@Vietnam" tvg-name="Cartoon Network Asia Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network Asia Vietnam
-http://antm.dynu.net:14285/rtp/232.84.1.16:8070
-#EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-name="Da Vinci Asia Vietnam" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Giáo dục",Da Vinci Asia Vietnam
-https://vmttv.dpdns.org/tv360?id=davinci-hd
 #EXTINF:-1 tvg-id="UniquelyThai.vn@SD" tvg-name="Uniquely Thai" tvg-logo="https://i.imgur.com/cTSDB8O.png" group-title="Mua sắm",Uniquely Thai
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us@Vietnam" tvg-name="Outdoor Channel Vietnam" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Ngoài trời",Outdoor Channel Vietnam
@@ -167,8 +165,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=216
 http://antm.dynu.net:14285/rtp/232.84.1.14:8058
 #EXTINF:-1 tvg-id="BoxHits.vn@SD" tvg-name="Box Hits" tvg-logo="https://i.imgur.com/kL9ubfw.png" group-title="Phim",Box Hits
 http://antm.dynu.net:14285/rtp/232.84.1.10:8034
-#EXTINF:-1 tvg-id="CinemaWorld.my@Vietnam" tvg-name="CinemaWorld Vietnam" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Phim",CinemaWorld Vietnam
-http://antm.dynu.net:14285/rtp/232.84.1.44:8244
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@Vietnam" tvg-name="Cinemax Asia Vietnam" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="Phim",Cinemax Asia Vietnam
 http://antm.dynu.net:14285/rtp/232.84.1.20:8094
 #EXTINF:-1 tvg-id="HBOAsia.sg@Vietnam" tvg-name="HBO Asia" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="Phim",HBO Asia
